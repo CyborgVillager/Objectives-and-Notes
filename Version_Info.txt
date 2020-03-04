@@ -13,7 +13,41 @@
                | Description: v# description |
                | --------------------------- |
  ----------------------------    ----------------------------   ------------------------- ------------------------------
---v1 Respo Created & Licenses: created a respo called Front-End-Web link: https://github.com/CyborgVillager/Front-End-Web
+ v0 Initial Commit: Initial commit onto github respo  https://github.com/CyborgVillager/Objectives-and-Notes
+
+v1 Respo Created & Licenses: created a respo called Front-End-Web link: https://github.com/CyborgVillager/Front-End-Web
                                 & added MIT Licenses to a couple of respos. Looking to spread the knowledge and further support
                                 this ever changing technological world of ours.
+
+
+--v2 Html & Css Update: new update for files @ https://github.com/CyborgVillager/Front-End-Web.
+                        the newests versions for this respo v5 -> v11 .
+
+                        What has been done as of 3/3/20
+                        introduction to front end dev files been created, will be using version_info.txt notes and
+                        be transfering them onto here
+
+                        * v5 Basic Headings & Title: added 2 new files just the basics of having the page tab name, and headings for a page.
+
+                        * v6 Txt Info Summary: quick updated files line_break, sub_script, and txt_info_summary.html for text based info
+
+                        * v7 Connect Pages & List: created 2 new files connect pages.html which just connects it to other pages that are on Html/
+                                                    and made lists that has basic list info.
+
+                        * v8 Spacing/Tables: New files created spacing & width table, spanning table row, table basic, and table head .html files
+                                                just the quick summary of making tables/span info.
+
+                        * v9 Update README.md: updated readme, to assist/give more details/guidance once a new user to front end-dev can start a project
+                                            and make a front end site similiar to my portfolio/get them started on testing their skill and wits!
+
+                        * v10 Form: added new file form0.html, have basic summary of making a form format, feel free to check it out, and learn
+                                      something new .
+
+                        * v11 Intro to CSS: made new folder called CSS, that holds html & css folders as sub dir. Will be updating this as reference
+                                            next morning of 3/4/20
+
+                         ----------------------------    ----------------------------    ----------------------------
+
+                         * private data created, will be updating it. Its basically a Django tut.
+                            will soon be combining other elements of my respos into this django site.
 
