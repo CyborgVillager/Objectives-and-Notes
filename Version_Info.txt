@@ -52,4 +52,7 @@ v2 Html & Css Update: new update for files @ https://github.com/CyborgVillager/F
                             will soon be combining other elements of my respos into this django site.
 
 
---v3 version 2 Edit: for the Django tut, once the basics are setup will be making it public/update it with new updates
+v3 version 2 Edit: for the Django tut, once the basics are setup will be making it public/update it with new updates
+
+--v4 JS,CSS: updated files @ respo Front-End-Web for CSS,HTML, and JS_and_JQuery info tutorials. Will be working more on
+		js tutorial then will be working on a mini react tutorial to make the front-end respo complete.
