@@ -54,5 +54,26 @@ v2 Html & Css Update: new update for files @ https://github.com/CyborgVillager/F
 
 v3 version 2 Edit: for the Django tut, once the basics are setup will be making it public/update it with new updates
 
---v4 JS,CSS: updated files @ respo Front-End-Web for CSS,HTML, and JS_and_JQuery info tutorials. Will be working more on
+v4 JS,CSS: updated files @ respo Front-End-Web for CSS,HTML, and JS_and_JQuery info tutorials. Will be working more on
 		js tutorial then will be working on a mini react tutorial to make the front-end respo complete.
+
+
+--v5 Ah yes: Back, been mostly assisting family with basic stuff. Pretty much prepared them last month before the stores
+		started to lose a lot of stock in the couple of days. Got them more than prepared just in case hard lock-downs
+			does occur, not a fan of waiting till the last minute, and worring if you have enough for the family or not.
+			besides that mostly got them quite a number of snacks and other goodies in these couple of days to supplement
+			the main stuff that was aquired beforehand. On top of that been working on more physical improvements. The better physic I am
+			the better my mental strength will be for aquiring even more knowledge & information! That is the life of a scientist and explorer
+			of this wonderful universe of ours. Been having a lot of benefits from it, and glad Im started to work on them. The better I can improve my
+			self then I would be able to improve the lives of others and see them fulfil their potential. Life is full of mysteries & unknowns waiting
+			to be discovered!! So much to do,learn,experience!! Fills me with so much joy and excitment , seeing the progress of our species, and other
+			lifeforms that we share on this planet of ours. Ah! words cant explain it, too much, could go on for hours prhaps days lel. 
+		
+			Anyways to the main objectives:
+			* DB for python, just testing for the full stack/front end site respo, but it will be on a new respo called DB0, which will be the temp testing
+			ground for a db. Once I aquire more resources will be aquiring a server to use for my a.i and other experiments/servers. Have a lot of plans
+			for the future, and want to further improve my skills, and implementing them onto the world. Want to further improve our understanding of code, the universe,
+			and our connection to our future brethern as well. The future is ready to be written, it is up to you to make that step forward to write what your life will be
+			. Do the impossible, dare to question to norm, and become more than your potential, while assisting others to achieve their potentials as well! Show the world what it
+			means to be a human! Show the world what it means to be alive! Mark your life as a stepping stone to further improve your life,family,local community,your country, and this
+			great world of ours that we call Earth!
