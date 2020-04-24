@@ -78,8 +78,18 @@ v5 Ah yes: Back, been mostly assisting family with basic stuff. Pretty much prep
 			means to be a human! Show the world what it means to be alive! Mark your life as a stepping stone to further improve your life,family,local community,your country, and this
 			great world of ours that we call Earth!
 
+v6 AWS: Currently working on a couple of aws projects such as machine learning , and a django site that can be accessed online.
+ML is a big plus, since I currently lack a physical server, but using aws will further increase my skill set in using cloud 
+computing to help aid in the creation of artifical intelligence!	
 
---v6 AWS: Currently in progress of testing out a couple of features for AWS, planning on using it for future projects, such
+v6 Edit: Fixed version_info for AWS version update
+
+
+--v7 AWS: Currently in progress of testing out a couple of features for AWS, planning on using it for future projects, such
             as machine learning, web hosting, and other goodies. Besides that learning a bit of C# to help aid in a couple
             of objectives that I'm working at at the moment. Will update this git in the following weeks. Besides that
             stay safe and always aim to exceed your limits, and do the impossible.
+			
+
+
+
