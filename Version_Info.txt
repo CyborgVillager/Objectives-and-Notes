@@ -58,7 +58,7 @@ v4 JS,CSS: updated files @ respo Front-End-Web for CSS,HTML, and JS_and_JQuery i
 		js tutorial then will be working on a mini react tutorial to make the front-end respo complete.
 
 
---v5 Ah yes: Back, been mostly assisting family with basic stuff. Pretty much prepared them last month before the stores
+v5 Ah yes: Back, been mostly assisting family with basic stuff. Pretty much prepared them last month before the stores
 		started to lose a lot of stock in the couple of days. Got them more than prepared just in case hard lock-downs
 			does occur, not a fan of waiting till the last minute, and worring if you have enough for the family or not.
 			besides that mostly got them quite a number of snacks and other goodies in these couple of days to supplement
@@ -77,3 +77,9 @@ v4 JS,CSS: updated files @ respo Front-End-Web for CSS,HTML, and JS_and_JQuery i
 			. Do the impossible, dare to question to norm, and become more than your potential, while assisting others to achieve their potentials as well! Show the world what it
 			means to be a human! Show the world what it means to be alive! Mark your life as a stepping stone to further improve your life,family,local community,your country, and this
 			great world of ours that we call Earth!
+
+
+--v6 AWS: Currently in progress of testing out a couple of features for AWS, planning on using it for future projects, such
+            as machine learning, web hosting, and other goodies. Besides that learning a bit of C# to help aid in a couple
+            of objectives that I'm working at at the moment. Will update this git in the following weeks. Besides that
+            stay safe and always aim to exceed your limits, and do the impossible.
